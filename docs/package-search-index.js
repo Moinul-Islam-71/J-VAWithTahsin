@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.company.InterfaceTutorial.DateTime_with_Default_and_StaticMethods"}];updateSearchResults();
