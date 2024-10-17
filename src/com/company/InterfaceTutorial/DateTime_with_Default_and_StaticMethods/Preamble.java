@@ -1,7 +1,7 @@
 package com.company.InterfaceTutorial.DateTime_with_Default_and_StaticMethods;
 import  java.lang.annotation.Documented;
 /**
- * Preamble একটি কাস্টম অ্যানোটেশন যা ক্লাস বা ইন্টারফেসের মেটাডাটা ধরে রাখে, যেমন: তারিখ, লেখক, বর্তমান সংশোধন, এবং রিভিউয়ারের নাম।
+ * Preamble একটি কাস্টম অ্যানোটেশন যা ক্লাস বা ইন্টারফেসের মেটাডাটা ধরে রাখে, যেমন: তারিখ, লেখক, বর্তমান সংশোধন এবং রিভিউয়ারের নাম।
  */
 @Documented
 @Preamble(date = "Thu, Oct 17 2024", author = "Moinul Islam", currentRevision = 1, lastModified = "N\\A", reviewers = "Null")
